@@ -3,10 +3,34 @@
 - 🌱 I’m currently learning Flutter...
 - 💞️ I'm looking to collaborate; on my own Secret Project...😎
 - 📫 How to reach me, ViniciusCostaPinto@gmail.com .
+<p align="center">
+  <!--  Implementation
+    <a href="https://github.com/ViniciusCostaPinto/github-readme-stats/actions">
+      <img alt="Testes aprovados" src="https://github.com/ViniciusCostaPinto/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+  -->
+    <a href="https://codecov.io/gh/ViniciusCostaPinto/github-readme-stats">
+      <img src="https://codecov.io/gh/ViniciusCostaPinto/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anurViniciusCostaPintoghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/ViniciusCostaPinto/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/ViniciusCostaPinto/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ViniciusCostaPinto/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+  </p>
+
+
 <div align="center">
   <a href="https://github.com/ViniciusCostaPinto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCostaPinto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCostaPinto&layout=compact&card_width=500px&langs_count=7&theme=solarized-dark"/>
+</div>
+<div align="center">
+  
+  ![Costa Pinto, Vinicius's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCostaPinto)
 </div>
 ✨
 <div style="display: inline_block; padding: 40px;"><br>
