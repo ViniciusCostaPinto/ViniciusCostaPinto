@@ -30,7 +30,9 @@
 </div>
 <div align="center">
   
+<!--
   ![Costa Pinto, Vinicius's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCostaPinto)
+-->
 </div>
 ✨
 <div style="display: inline_block; padding: 40px;"><br>
