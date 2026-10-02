@@ -3,6 +3,30 @@
 - 🌱 I’m currently learning Flutter...
 - 💞️ I'm looking to collaborate; on my own Secret Project...😎
 - 📫 How to reach me, ViniciusCostaPinto@gmail.com .
+
+Professsor Universitário de Tecnologia da Informação e Ciência da Computação, entusiasta de Sistemas Embarcados, Internet das Coisas (IoT), Programação e Eletrônica de Bancada.
+
+---
+
+### 🎓 Atuação Acadêmica & Ensino
+* **Docente Universitário** ministrando disciplinas de Linguagens de Programação (Python, C, PHP), Sistemas Operacionais, Gestão de Serviços de TI e Banco de Dados.
+* Foco em **metodologias práticas e laboratoriais**, desenvolvendo atividades gamificadas, estudos de caso reais e protótipos de engenharia.
+* Aplicação do framework **ITIL 4** (Service Value System e Cadeia de Valor de Serviço) para gestão e governança em TI.
+
+---
+
+### 🛠️ Áreas de Atuação e Tecnologias
+
+#### **Sistemas Embarcados & IoT**
+* **Microcontroladores:** ESP32, Raspberry Pi Pico (Pico W), Arduino.
+* **Linguagens & Protocolos:** MicroPython, C/C++, Wi-Fi Web Servers, Sensores (LDR, Ultrasonic HC-SR04), Comunicação Óptica (Li-Fi).
+* **Hardware & Eletrônica:** Instrumentação de bancada, montagem de circuitos, prototipagem de fontes de alimentação ajustáveis e microcontroladas.
+
+#### **Desenvolvimento de Software & Dados**
+* **Linguagens:** Python, C, PHP, JavaScript, HTML5/CSS3.
+* **Frameworks & Libs:** Flask, Streamlit, Flet, Tkinter, Pandas, NumPy, Matplotlib.
+* **Análise de Dados & Big Data:** Processamento de dados via Pandas/Google Colab, conceitos da ecossistema Apache Hadoop e Data Lakes.
+
 <p align="center">
   <!--  Implementation
     <a href="https://github.com/ViniciusCostaPinto/github-readme-stats/actions">
